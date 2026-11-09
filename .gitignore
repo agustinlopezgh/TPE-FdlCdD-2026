@@ -3,3 +3,5 @@ venv/
 __pycache__/
 *.pyc
 pruebas.py
+analisis_3C.py
+informe_3c.ipynb
