@@ -1,5 +1,5 @@
 # TPE-FdlCdD-2026 - Grupo 34
-<BR> Bayones, Santiago 
+Bayones, Santiago 
 <BR> Lopez, Agustin 
 <BR> Massaccesi, Valentin 
 
